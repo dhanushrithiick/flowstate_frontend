@@ -44,7 +44,7 @@ const CTA = () => {
           {/* SUBTLE SYSTEM TEXT */}
           <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex items-center gap-3 opacity-20">
             <div className="w-1 h-1 rounded-full bg-white"></div>
-            <span className="text-[10px] text-white font-black uppercase tracking-[0.5em]">GalleryX Protocol v1.0</span>
+            <span className="text-[10px] text-white font-black uppercase tracking-[0.5em]">FlowState Protocol v1.0</span>
             <div className="w-1 h-1 rounded-full bg-white"></div>
           </div>
         </div>
